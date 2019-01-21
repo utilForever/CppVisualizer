@@ -1,4 +1,4 @@
-# app
+# CppVisualizer-App
 
 ## Project setup
 ```
