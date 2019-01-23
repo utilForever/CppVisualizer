@@ -20,6 +20,9 @@ export default {
 
 <style>
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+html, body {
+  background-color: #737373;
+}
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -28,7 +31,11 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+.md-toolbar {
+  background-color: #404040;
+}
 .md-title {
   font-family: 'Press Start 2P', cursive;
+  color: #f2f2f2;
 }
 </style>
